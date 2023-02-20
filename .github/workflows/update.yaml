@@ -1,0 +1,29 @@
+name: update
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: Generate new README.md
+        run: |
+          cd ${GITHUB_WORKSPACE}/update
+          go run main.go
+      - name: Push
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR_ID}+${GITHUB_ACTOR}@users.noreply.github.com"
+          git add .
+          git commit -am "Update"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
