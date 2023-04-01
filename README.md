@@ -4,4 +4,4 @@ I'm an experienced software engineering leader with deep expertise on cloud arch
 
 You might enjoy my latest blog post on technology: **[Cool language features: Swift guard statements](https://sophiabits.com/blog/swift-guard-statements)**.
 
-<sub>Last updated 3 Mar 2023</sub>
+<sub>Last updated 4 Apr 2023</sub>
