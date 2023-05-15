@@ -2,6 +2,6 @@
 
 I'm an experienced software engineering leader with deep expertise on cloud architectures and CI/CD. I learn and teach by writing on [sophiabits.com](https://sophiabits.com/blog)
 
-You might enjoy my latest blog post on architecture: **[GraphQL is for your product](https://sophiabits.com/blog/graphql-is-for-your-product)**.
+You might enjoy my latest blog post on frontend engineering: **[How to purge your CDN from a pipeline](https://sophiabits.com/blog/how-to-purge-your-cdn-from-a-pipeline)**.
 
 <sub>Last updated 5 May 2023</sub>
