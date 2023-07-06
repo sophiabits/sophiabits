@@ -43,7 +43,7 @@ type PostStatsResponse struct {
 
 // Improves appearance of tag in a sentence
 func formatTag(tag string) string {
-	if tag == "APIs" || tag == "AWS" || tag == "DevOps" || tag == "EdTech" || tag == "macOS" || tag == "SEO" || tag == "UI" {
+	if tag == "APIs" || tag == "AWS" || tag == "C#" || tag == "CSS" || tag == "DevOps" || tag == "DynamoDB" || tag == "EdTech" || tag == "GraphQL" || tag == "macOS" || tag == "React.js" || tag == "SEO" || tag == "UI" {
 		return tag
 	}
 	return strings.ToLower(tag)
