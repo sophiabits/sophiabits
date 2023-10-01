@@ -4,4 +4,4 @@ I'm an experienced software engineering leader with deep expertise on cloud arch
 
 You might enjoy my latest blog post on performance: **[Efficient data retention policies](https://sophiabits.com/blog/efficient-data-retention-policies)**.
 
-<sub>Last updated 9 Sep 2023</sub>
+<sub>Last updated 10 Oct 2023</sub>
