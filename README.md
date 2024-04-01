@@ -4,4 +4,4 @@ I'm an experienced software engineering leader with deep expertise on cloud arch
 
 You might enjoy my latest blog post on business: **[If you’re paying for AWS support, use it](https://sophiabits.com/blog/use-aws-support)**.
 
-<sub>Last updated 3 Mar 2024</sub>
+<sub>Last updated 4 Apr 2024</sub>
