@@ -4,4 +4,4 @@ I'm an experienced software engineering leader with deep expertise on cloud arch
 
 You might enjoy my latest blog post on developer experience: **[Be a tidy kiwi](https://sophiabits.com/blog/be-a-tidy-kiwi)**.
 
-<sub>Last updated 5 May 2024</sub>
+<sub>Last updated 6 Jun 2024</sub>
