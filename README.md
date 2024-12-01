@@ -4,4 +4,4 @@ I'm an experienced software engineering leader with deep expertise on cloud arch
 
 You might enjoy my latest blog post on artificial intelligence: **[Leveraging logprobs to build better generative AI systems](https://sophiabits.com/blog/leveraging-logprobs)**.
 
-<sub>Last updated 11 Nov 2024</sub>
+<sub>Last updated 12 Dec 2024</sub>
